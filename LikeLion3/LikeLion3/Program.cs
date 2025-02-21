@@ -13,14 +13,14 @@ namespace LikeLion3
             int hp = 100;
             double att = 56.7;
             char rate = 'S';
-            string character = "Character";
-            string CharacterName = "AA";
+            string Character = "Character";
+            string CharacterName = "AAA";
 
-            Console.WriteLine(character);
-            Console.WriteLine(hp);
-            Console.WriteLine(att);
-            Console.WriteLine(rate);
-            Console.WriteLine(CharacterName);
+            Console.WriteLine(Character);
+            Console.WriteLine("체력 " + hp);
+            Console.WriteLine("공격력 " + att);
+            Console.WriteLine("등급 " + rate);
+            Console.WriteLine("이름 " + CharacterName);
         }
     }
 }
