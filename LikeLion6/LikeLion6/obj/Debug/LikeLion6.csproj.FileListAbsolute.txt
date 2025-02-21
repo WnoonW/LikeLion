@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\bin\Debug\LikeLion6.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\bin\Debug\LikeLion6.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\bin\Debug\LikeLion6.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\obj\Debug\LikeLion6.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\obj\Debug\LikeLion6.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\obj\Debug\LikeLion6.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\LikeLion6\LikeLion6\obj\Debug\LikeLion6.pdb
