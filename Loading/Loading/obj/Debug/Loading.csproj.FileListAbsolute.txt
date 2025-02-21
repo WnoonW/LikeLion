@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\bin\Debug\Loading.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\bin\Debug\Loading.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\bin\Debug\Loading.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\obj\Debug\Loading.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Loading\Loading\obj\Debug\Loading.pdb
