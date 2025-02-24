@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\bin\Debug\02-24-LikeLion1.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\bin\Debug\02-24-LikeLion1.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\bin\Debug\02-24-LikeLion1.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\obj\Debug\02-24-LikeLion1.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\obj\Debug\02-24-LikeLion1.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\obj\Debug\02-24-LikeLion1.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\02-24-LikeLion1\02-24-LikeLion1\obj\Debug\02-24-LikeLion1.pdb
