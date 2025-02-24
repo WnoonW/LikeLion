@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\bin\Debug\txt.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\bin\Debug\txt.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\bin\Debug\txt.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\obj\Debug\txt.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\obj\Debug\txt.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\obj\Debug\txt.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\txt\txt\obj\Debug\txt.pdb
