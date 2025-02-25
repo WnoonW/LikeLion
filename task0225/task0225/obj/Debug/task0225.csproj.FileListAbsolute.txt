@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\bin\Debug\task0225.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\bin\Debug\task0225.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\bin\Debug\task0225.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\obj\Debug\task0225.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\obj\Debug\task0225.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\obj\Debug\task0225.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0225\task0225\obj\Debug\task0225.pdb
