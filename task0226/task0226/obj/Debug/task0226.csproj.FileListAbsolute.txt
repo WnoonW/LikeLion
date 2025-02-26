@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\obj\Debug\task0226.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\obj\Debug\task0226.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\bin\Debug\task0226.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\bin\Debug\task0226.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\bin\Debug\task0226.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\obj\Debug\task0226.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\task0226\task0226\obj\Debug\task0226.pdb
