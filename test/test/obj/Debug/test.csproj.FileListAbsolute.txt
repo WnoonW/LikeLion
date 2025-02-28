@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\bin\Debug\test.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\bin\Debug\test.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\bin\Debug\test.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\obj\Debug\test.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\test\test\obj\Debug\test.pdb
