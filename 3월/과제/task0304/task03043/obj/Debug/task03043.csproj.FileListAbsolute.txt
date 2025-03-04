@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\bin\Debug\task03043.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\bin\Debug\task03043.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\bin\Debug\task03043.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\obj\Debug\task03043.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\obj\Debug\task03043.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\obj\Debug\task03043.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\과제\task0304\task03043\obj\Debug\task03043.pdb
