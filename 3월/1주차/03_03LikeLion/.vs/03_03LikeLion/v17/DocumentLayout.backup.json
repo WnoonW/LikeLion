@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\03_03LikeLion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED4CF0-C1F1-4526-B933-19B10FEC9235}|03_03LikeLion1\\03_03LikeLion1.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\03_03likelion\\03_03likelion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED4CF0-C1F1-4526-B933-19B10FEC9235}|03_03LikeLion1\\03_03LikeLion1.csproj|solutionrelative:03_03likelion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C6A18-8AE9-40F0-8878-2EF4D574B2C0}|03_03LikeLion\\03_03LikeLion.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\03_03likelion\\03_03likelion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113C6A18-8AE9-40F0-8878-2EF4D574B2C0}|03_03LikeLion\\03_03LikeLion.csproj|solutionrelative:03_03likelion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\03_03LikeLion\\03_03LikeLion1\\Program.cs",
+              "RelativeDocumentMoniker": "03_03LikeLion1\\Program.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\03_03LikeLion\\03_03LikeLion1\\Program.cs*",
+              "RelativeToolTip": "03_03LikeLion1\\Program.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:05:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\03_03LikeLion\\03_03LikeLion\\Program.cs",
+              "RelativeDocumentMoniker": "03_03LikeLion\\Program.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\03_03LikeLion\\03_03LikeLion\\Program.cs",
+              "RelativeToolTip": "03_03LikeLion\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv3EAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:16:27.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
