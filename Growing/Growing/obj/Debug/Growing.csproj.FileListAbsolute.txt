@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\bin\Debug\Growing.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\bin\Debug\Growing.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\bin\Debug\Growing.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\obj\Debug\Growing.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\obj\Debug\Growing.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\obj\Debug\Growing.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\Growing\Growing\obj\Debug\Growing.pdb
