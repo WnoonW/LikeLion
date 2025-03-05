@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_05_LikeLion3", "03_05_LikeLion3\03_05_LikeLion3.csproj", "{450DD886-E66E-48B2-806F-C01155954E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task0305", "..\..\..\과제\task0305\task0305\task0305.csproj", "{4CA37151-05DF-477C-AB15-202FBD43CFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450DD886-E66E-48B2-806F-C01155954E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450DD886-E66E-48B2-806F-C01155954E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450DD886-E66E-48B2-806F-C01155954E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450DD886-E66E-48B2-806F-C01155954E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA37151-05DF-477C-AB15-202FBD43CFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA37151-05DF-477C-AB15-202FBD43CFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA37151-05DF-477C-AB15-202FBD43CFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA37151-05DF-477C-AB15-202FBD43CFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD04B7B-B4B7-4FCC-8092-1FB5FA0E6D67}
+	EndGlobalSection
+EndGlobal
