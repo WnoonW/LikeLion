@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\bin\Debug\03_07_LikeLion.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\bin\Debug\03_07_LikeLion.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\bin\Debug\03_07_LikeLion.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\obj\Debug\03_07_LikeLion.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\obj\Debug\03_07_LikeLion.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\obj\Debug\03_07_LikeLion.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\03_07_LikeLion\03_07_LikeLion\obj\Debug\03_07_LikeLion.pdb
