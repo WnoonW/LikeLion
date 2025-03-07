@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|solutionrelative:task0306\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|solutionrelative:task0306\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|solutionrelative:task0306\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|solutionrelative:task0306\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|solutionrelative:task0306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DF3724-33BC-46C7-9049-9DFF2D8CE1D6}|task0306\\task0306.csproj|solutionrelative:task0306\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "task0306\\Field.cs",
               "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\Field.cs",
               "RelativeToolTip": "task0306\\Field.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAUwC0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T08:06:59.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "INFO.cs",
               "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\INFO.cs",
               "RelativeDocumentMoniker": "task0306\\INFO.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0306\\task0306\\Monster.cs",
               "RelativeDocumentMoniker": "task0306\\Monster.cs",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "task0306\\Monster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T08:23:16.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T08:23:16.257Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "task0306\\MainGame.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:55:23.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:55:23.111Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "task0306\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:04:01.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:04:01.501Z"
             }
           ]
         }

@@ -1,0 +1,7 @@
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\bin\Debug\TryFast.exe.config
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\bin\Debug\TryFast.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\bin\Debug\TryFast.pdb
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\obj\Debug\TryFast.csproj.AssemblyReference.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\obj\Debug\TryFast.csproj.CoreCompileInputs.cache
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\obj\Debug\TryFast.exe
+C:\Users\wonoow\Desktop\1\C#\LikeLion\3월\1주차\TryFast\TryFast\obj\Debug\TryFast.pdb

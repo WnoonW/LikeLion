@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\tryfast\\tryfast\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|solutionrelative:tryfast\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\tryfast\\tryfast\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|solutionrelative:tryfast\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\tryfast\\tryfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|solutionrelative:tryfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\tryfast\\tryfast\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|solutionrelative:tryfast\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\tryfast\\tryfast\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|solutionrelative:tryfast\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\1\uC8FC\uCC28\\tryfast\\tryfast\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4ED4-B94B-4835-AE8B-4E386B041C85}|TryFast\\TryFast.csproj|solutionrelative:tryfast\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\MainGame.cs",
+              "RelativeDocumentMoniker": "TryFast\\MainGame.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\MainGame.cs",
+              "RelativeToolTip": "TryFast\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:49:18.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Field.cs",
+              "RelativeDocumentMoniker": "TryFast\\Field.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Field.cs",
+              "RelativeToolTip": "TryFast\\Field.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:24:01.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\INFO.cs",
+              "RelativeDocumentMoniker": "TryFast\\INFO.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\INFO.cs",
+              "RelativeToolTip": "TryFast\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:06:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Program.cs",
+              "RelativeDocumentMoniker": "TryFast\\Program.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Program.cs",
+              "RelativeToolTip": "TryFast\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Player.cs",
+              "RelativeDocumentMoniker": "TryFast\\Player.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Player.cs",
+              "RelativeToolTip": "TryFast\\Player.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAlwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Monster.cs",
+              "RelativeDocumentMoniker": "TryFast\\Monster.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\1\uC8FC\uCC28\\TryFast\\TryFast\\Monster.cs",
+              "RelativeToolTip": "TryFast\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:33:33.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
