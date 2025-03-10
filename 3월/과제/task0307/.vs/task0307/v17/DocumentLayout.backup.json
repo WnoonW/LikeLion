@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|c:\\users\\wonoow\\desktop\\1\\c#\\likelion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C3FB2-ED5F-43D2-A9FF-2EA19E6659C4}|task0307\\task0307.csproj|solutionrelative:task0307\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Block.cs",
+              "RelativeDocumentMoniker": "task0307\\Block.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Block.cs*",
+              "RelativeToolTip": "task0307\\Block.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:41:08.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Bar.cs",
+              "RelativeDocumentMoniker": "task0307\\Bar.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Bar.cs",
+              "RelativeToolTip": "task0307\\Bar.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:39:23.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\GameManager.cs",
+              "RelativeDocumentMoniker": "task0307\\GameManager.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\GameManager.cs",
+              "RelativeToolTip": "task0307\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:39:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Ball.cs",
+              "RelativeDocumentMoniker": "task0307\\Ball.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Ball.cs",
+              "RelativeToolTip": "task0307\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:38:51.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BARDATA.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\BARDATA.cs",
+              "RelativeDocumentMoniker": "task0307\\BARDATA.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\BARDATA.cs",
+              "RelativeToolTip": "task0307\\BARDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:38:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BALLDATA.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\BALLDATA.cs",
+              "RelativeDocumentMoniker": "task0307\\BALLDATA.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\BALLDATA.cs",
+              "RelativeToolTip": "task0307\\BALLDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:38:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Program.cs",
+              "RelativeDocumentMoniker": "task0307\\Program.cs",
+              "ToolTip": "C:\\Users\\wonoow\\Desktop\\1\\C#\\LikeLion\\3\uC6D4\\\uACFC\uC81C\\task0307\\task0307\\Program.cs",
+              "RelativeToolTip": "task0307\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:37:24.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
